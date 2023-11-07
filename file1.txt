@@ -1,1 +1,2 @@
 Bu projectimning v1 kodları
+New feature tomonidan file1 ga text yozdim
